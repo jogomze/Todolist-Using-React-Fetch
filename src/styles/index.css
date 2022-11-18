@@ -22,3 +22,9 @@ body {
 .btn:hover {
     opacity: 1;
 }
+
+.minibox {
+    width: 400px;
+    height: 30px;
+    color: gray;
+}
